@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Pacifico&family=Saira+Extra+Condensed:wght@500;700&display=swap');
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex; 
+  align-items: center;
+  flex-direction: column;
+  font-family: "Nunito", sans-serif;
+  background: rgb(62,84,245);
+  background: linear-gradient(90deg, rgba(62,84,245,1) 0%, rgba(62,139,245,1) 100%);
+}
+body {
+  padding: 0;
+  margin: 0;
+}
